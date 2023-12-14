@@ -1,0 +1,5 @@
+{
+    "require": {
+        "microsoft/azure-storage-table": "^1.1"
+    }
+}
